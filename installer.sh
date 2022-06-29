@@ -6,9 +6,9 @@
 NAMEVPN="VPN INFO";
 WEBSCRIPT="bwh.panel-vpn.biz";
 DBHOST="174.138.183.243";
-DBNAME="abolirez_vp";
-DBUSER="abolirez_vp";
-DBPASS="abolirez_vp";
+DBNAME="abolirez_arman";
+DBUSER="abolirez_arman";
+DBPASS="abolirez_arman";
 APISYNCLOGIN="authentication";
 APISYNC="firenetdev";
 SERVERZ=$(curl -4s http://ipinfo.io/org);
